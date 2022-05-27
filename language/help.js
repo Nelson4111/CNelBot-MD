@@ -14,51 +14,28 @@ Peraturannya Jangan di spam🗿
 gak terima Yok betumbu lagi 🗿
 
 ┏━━━━━━━━━━━━━━━━━
-
 ┃     { Dhika Cloud }
-
 ┃
-
 ┃ *〔 📦PRODUK 〕*
-
 ┃⬡ HOSTING
-
 ┃⬡ DOMAIN
-
 ┃⬡ PL PREMIUM
-
 ┃⬡ BOT HOSTING
-
 ┃⬡ VPS/RDP
-
 ┃⬡ Jasa Setup Server PMMP
-
 ┣━━━━━━━━━━━━━━━━━
-
 ┃ *〔 💸 PAYMENT〕*
-
 ┃ *$* DANA
-
 ┃ *$* GOPAY
-
 ┃ *$* OVO
-
 ┃ *$* SHOOPEPAY
-
 ┃ *$* QRIS  
-
 ┣━━━━━━━━━━━━━━━━━
-
 ┃  𝗠𝗶𝗻𝗮𝘁? 𝗟𝗮𝗻𝗴𝘀𝘂𝗻𝗴 𝗮𝗷𝗮 𝗰𝗵𝗮𝘁 
-
 ┃ wa.me/62 85258301898
-
 ┣━━━━━━━━━━━━━━━━━
-
 ┃ 𝗔𝘁𝗮𝘂 𝗷𝗼𝗶𝗻 𝗹𝗶𝗻𝗸 𝗴𝗿𝘂𝗽
-
 ┃https://chat.whatsapp.com/Jom6i2ALqNIF2wcwUgK7QS
-
 ┗━━━━━━━━━━━━━━━━━
 
 `
