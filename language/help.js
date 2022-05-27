@@ -32,7 +32,7 @@ gak terima Yok betumbu lagi 🗿
 ┃ *$* QRIS  
 ┣━━━━━━━━━━━━━━━━━
 ┃  𝗠𝗶𝗻𝗮𝘁? 𝗟𝗮𝗻𝗴𝘀𝘂𝗻𝗴 𝗮𝗷𝗮 𝗰𝗵𝗮𝘁 
-┃ wa.me/62 85258301898
+┃ wa.me/6285258301898
 ┣━━━━━━━━━━━━━━━━━
 ┃ 𝗔𝘁𝗮𝘂 𝗷𝗼𝗶𝗻 𝗹𝗶𝗻𝗸 𝗴𝗿𝘂𝗽
 ┃https://chat.whatsapp.com/Jom6i2ALqNIF2wcwUgK7QS
@@ -472,7 +472,7 @@ return`  _Selamat ${salam} kak ${pushname}_
 
 //—————「 Welcome 」—————//
 exports.welcome = () => {
-	return`★──────「*𝗪𝗲𝗹𝗰𝗼𝗺𝗲*」 ─────★\n\n┌────────────── \n│ *𝐇𝐚𝐥𝐨 𝐤𝐚𝐤👋*  \n│≻─「 *𝐈𝐍𝐓𝐑𝐎* 」─ \n│𝐍𝐚𝐦𝐚: \n│𝐔𝐦𝐮𝐫: \n│𝐆𝐞𝐧𝐝𝐞𝐫:\n│𝐀𝐬𝐤𝐨𝐭:\n│𝐒𝐭𝐚𝐭𝐮𝐬:\n\n┣━━━━━━━━━━━━━━━━━━━━━/n┃        { *Dhika Cloud* }/n┃\n┃ *〔 📦PRODUK 〕*\n┃⬡ HOSTING\n┃⬡ DOMAIN\n┃⬡ PL PREMIUM\n┃⬡ BOT HOSTING\n┃⬡ VPS/RDP\n┃⬡ Jasa Setup Server PMMP\n┣━━━━━━━━━━━━━━━━━\n┃ *〔 💸 PAYMENT〕*\n┃ *$* DANA\n┃ *$* GOPAY\n┃ *$* OVO\n┃ *$* SHOOPEPAY\n┃ *$* QRIS  \n┣━━━━━━━━━━━━━━━━━\n┃  𝗠𝗶𝗻𝗮𝘁? 𝗟𝗮𝗻𝗴𝘀𝘂𝗻𝗴 𝗮𝗷𝗮 𝗰𝗵𝗮𝘁 \n┃ wa.me/62 85258301898\n┣━━━━━━━━━━━━━━━━━\n┃ 𝗔𝘁𝗮𝘂 𝗷𝗼𝗶𝗻 𝗹𝗶𝗻𝗸 𝗴𝗿𝘂𝗽\n┃https://chat.whatsapp.com/Jom6i2ALqNIF2wcwUgK7QS \n┗━━━━━━━━━━━━━━━━━\n
+	return`★──────「*𝗪𝗲𝗹𝗰𝗼𝗺𝗲*」 ─────★\n\n┌────────────── \n│ *𝐇𝐚𝐥𝐨 𝐤𝐚𝐤👋*  \n│≻─「 *𝐈𝐍𝐓𝐑𝐎* 」─ \n│𝐍𝐚𝐦𝐚: \n│𝐔𝐦𝐮𝐫: \n│𝐆𝐞𝐧𝐝𝐞𝐫:\n│𝐀𝐬𝐤𝐨𝐭:\n│𝐒𝐭𝐚𝐭𝐮𝐬:\n\n┣━━━━━━━━━━━━━━━━━━━━━/n┃        { *Dhika Cloud* }/n┃\n┃ *〔 📦PRODUK 〕*\n┃⬡ HOSTING\n┃⬡ DOMAIN\n┃⬡ PL PREMIUM\n┃⬡ BOT HOSTING\n┃⬡ VPS/RDP\n┃⬡ Jasa Setup Server PMMP\n┣━━━━━━━━━━━━━━━━━\n┃ *〔 💸 PAYMENT〕*\n┃ *$* DANA\n┃ *$* GOPAY\n┃ *$* OVO\n┃ *$* SHOOPEPAY\n┃ *$* QRIS  \n┣━━━━━━━━━━━━━━━━━\n┃  𝗠𝗶𝗻𝗮𝘁? 𝗟𝗮𝗻𝗴𝘀𝘂𝗻𝗴 𝗮𝗷𝗮 𝗰𝗵𝗮𝘁 \n┃ wa.me/6285258301898 \n┣━━━━━━━━━━━━━━━━━\n┃ 𝗔𝘁𝗮𝘂 𝗷𝗼𝗶𝗻 𝗹𝗶𝗻𝗸 𝗴𝗿𝘂𝗽\n┃https://chat.whatsapp.com/Jom6i2ALqNIF2wcwUgK7QS \n┗━━━━━━━━━━━━━━━━━\n
 `
 }
 
