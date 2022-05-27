@@ -17,8 +17,11 @@ zenz: 'https://zenzapis.xyz',
 
 //—————「 Website Apikey 」—————//
 global.APIKeys = {
+
 //gausah di apa² in, udah free apikey :)
-'https://zenzapis.xyz':,
+
+'https://zenzapis.xyz': 'BagasPrdn',
+
 }
 //—————「 Setting Owner 」—————//
 global.owner = ['6281241100804','6281241100804','6281241100804'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
